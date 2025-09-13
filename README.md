@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Live Demo
 
-[View Live Demo](https://hassan-ali-byte.github.io/social-links-profile-card/)
+[View Live Demo](https://hassan-ali-byte.github.io/social-links-profile-main/)
 
 ---
 
